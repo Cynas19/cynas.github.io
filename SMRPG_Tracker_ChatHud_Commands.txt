@@ -1,0 +1,266 @@
+SMRPG Open Randomizer Tracker by Cynas
+ChatHUD commands
+
+Enter the following commands ("codes") after the command "!hud" to have your tracker activated from chat.
+
+Example: Activate Star 1
+!hud star1
+
+[Items Only, Items with Characters, Items with Characters and Bosses]
+
+Star 1
+    "codes": "star1, 1star, s1"
+
+Star2
+    "codes": "star2, 2star, s2"
+
+Star3
+    "codes": "star3, 3star, s3"
+
+Star4
+    "codes": "star4, 4star, s4"
+
+Star5
+    "codes": "star5, 5star, s5"
+
+Star6
+    "codes": "star6, 6star, s6"
+
+Star7
+    "codes": "star7, 7star, s7"
+
+Castle Key 1
+    "codes": "key1, castlekey1, castle1, ckey1, 1key, 1ckey"
+
+Castle Key 2
+    "codes": "key2, castlekey2, castle2, ckey2, 2key, 2ckey"
+
+Elder Key
+    "codes": "ekey, elderkey, keye, elder"
+
+Room Key
+    "codes": "rkey, roomkey, keyr, room"
+
+Shed Key
+    "codes": "skey, shedkey, keys, shed"
+
+Temple Key
+    "codes": "tkey, templekey, keyt, temple"
+
+Big Boo Flag
+    "codes": "bigbooflag, booflag, bbflag, boo, bbf"
+
+Dry Bones Flag
+    "codes": "drybonesflag, dryflag, bonesflag, dbflag, drybones, bones, dbf"
+
+Greaper Flag
+    "codes": "greaperflag, greaper, gflag, reaper, ghostflag"
+
+Bambino Bomb
+    "codes": "bambinobomb, bambino, bomb, bb"
+
+Bright Card
+    "codes": "brightcard, bcard, bright, cardb, bc"
+
+Carbo Cookie
+    "codes": "codes": "carbocookie, ccookie, carboc, cook, cookie, carb, cc, biscuit"
+
+Membership Cards (Alto Card, Tenor Card, Soprano Card, Progressive)
+    "codes": "altocard, acard, carda, alto, card1"
+    "codes": "tenorcard, tcard, cardt, tenor, card2"
+    "codes": "sopranocard, scard, cards, soprano, card3"
+
+Cricket Jam
+    "codes": "cricketjam, cjam, cricketj, cj, jam"
+
+Cricket Pie
+    "codes": "cricketpie, cpie, cricketp, cp, pie"
+
+Fertilizer
+    "codes": "fertilizer, fert, fart, poo, poop"
+
+Seed
+    "codes": "seed, bud, flower"
+
+Rare Frog Coin
+    "codes": "rarefrogcoin, rarefrog, rarecoin, frogcoin, rare, frog, coin, rfc, fc"
+
+Shiny Stone
+    "codes": "shinystone, shiny, stone, ss, sstone, shinys"
+
+[Items with Characters, Items with Characters and Bosses]
+
+Bowser
+    "codes": "bowserportrait, bowser, turtle, bestcharacter"
+
+Geno
+    "codes": "genoportrait, geno, starman, starboy, starsky"
+
+Mallow
+    "codes": "mallowportrait, mallow, marshmallow, fluffy, notatadpole, cloud"
+
+Mario
+    "codes": "marioportrait, mario, plumber, jumpy, redluigi"
+
+Peach
+    "codes": "peachportrait, peach, princess, toadstool"
+
+[Items with Characters and Bosses]
+*Secondary codes used to mark the boss location with a checkmark
+
+Hammer Brothers
+    "codes": "hammerbros, hammerbrothers, hammer, brothers, bros, hbros"
+    "codes": "hammerbrosx, hammerbrosc, hammerbrothersc, hammerc, brothersc, brosc, hbrosc"
+
+Croco1
+    "codes": "croco1, c1, dino1"
+    "codes": "croco1x, croco1c, c1c, dino1c"
+
+Mack
+    "codes": "mack, swordboy, babyexor, pumpkinhead, pumpkin"
+    "codes": "mackx, mackc, swordboyc, babyexorc, pumpkinheadc, pumpkinc"
+
+Pandorite
+    "codes": "pandorite, pando, chest1, c1"
+    "codes": "pandoritex, pandoritec, pandoc, chest1c, c1c"
+
+Belome1
+    "codes": "belome1, hunger1, starving1, b1"
+    "codes": "belome1x, belome1c, hunger1c, starving1c, b1c"
+
+Bowyer
+    "codes": "bowyer, bow, davidbowie, greenarrow"
+    "codes": "bowyerx, bowyerc, bowc, davidbowiec, greenarrowc"
+
+Croco2
+    "codes": "croco2, c2, dino2"
+    "codes": "croco2x, croco2c, c2c, dino2c"
+
+Punchinello
+    "codes": "punchinello, punchy, bombvoyage, bomber"
+    "codes": "punchinellox, punchinelloc, punchyc, bombvoyagec, bomberc"
+
+Booster
+    "codes": "booster, cakeeater, snifitking, beetlemonger"
+    "codes": "boosterx, boosterc, cakeeaterc, snifitkingc, beetlemongerc"
+
+Grate Guy and Knife Guy
+    "codes": "grateknifeguy, grateknifeguys, grateguy, knifeguy, guys, gkg, gg, kg, clowns"
+    "codes": "grateknifeguyx, grateknifeguyc, grateknifeguysc, grateguyc, knifeguyc, guysc, gkgc, ggc, kgc, clownsc"
+
+Bundt
+    "codes": "bundt, cake, cakeboss, candles, weddingcake"
+    "codes": "bundtx, bundtc, cakec, cakebossc, candlesc, weddingcakec"
+
+Star Hill
+    "codes": "starhill, starflower, sh, shill, flower"
+    "codes": "starhillx, starhillc, starflowerc, shc, shillc, flowerc"
+
+King Calamari
+    "codes": "kingcalamari, king, calamari, squid, inky, blooper, kc"
+    "codes": "kingcalamarix, kingcalamaric, kingc, calamaric, squidc, inkyc, blooperc, kcc"
+
+Hidon
+    "codes": "hidon, hidden, chest2"
+    "codes": "hidonx, hidonc, hiddenc, chest2c"
+
+Johnathan Jones
+    "codes": "johnny, johnathanjones, jj, jjones, jonathanj, johnathan, shark, sharky"
+    "codes": "johnnyx, johnnyc, johnathanjonesc, jjc, jjonesc, jonathanjc, johnathanc, sharkc, sharkyc"
+
+Yardovich
+    "codes": "yardovich, yard, yarid, spearhead, spear"
+    "codes": "yardovichx, yardovichc, yardc, yaridc, spearheadc, spearc"
+
+Belome2
+    "codes": "belome2, hunger2, starving2, b2"
+    "codes": "belome2x, belome2c, hunger2c, starving2c, b2c"
+
+Jagger
+    "codes": "jagger, mickjagger, mj, j0, jinx0"
+    "codes": "jaggerx, jaggerc, mickjaggerc, mjc, j0c, jinx0c"
+
+Jinx1
+    "codes": "jinx1, j1, tiny1, greenbelt"
+    "codes": "jinx1x, jinx1c, j1c, tiny1c, greenbeltc"
+
+Jinx2
+
+    "codes": "jinx2, j2, tiny2, bluebelt"
+    "codes": "jinx2x, jinx2c, j2c, tiny2c, bluebeltc"
+
+Jinx3
+    "codes": "jinx3, j3, tiny3, redbelt"
+    "codes": "jinx3x, jinx3c, j3c, tiny3c, redbeltc"
+
+Culex
+    "codes": "culex, ff4, bestmusic, crystal, crystals"
+    "codes": "culexx, culexc, ff4c, bestmusicc, crystalc, crystalsc"
+
+Box boy
+    "codes": "boxboy, bxb, chest3, c3"
+    "codes": "boxboyx, boxboyc, bxbc, chest3c, c3c"
+
+Megasmilax
+    "codes": "megasmilax, smilax, weed, grass, piranha"
+    "codes": "megasmilaxx, megasmilaxc, smilaxc, weedc, grassc, piranhac"
+
+Dodo
+    "codes": "dodo, dd, featherhead, beaky"
+    "codes": "dodox, dodoc, ddc, featherheadc, beakyc"
+
+Birdo
+    "codes": "birdo, bird, trashmen, eggs"
+    "codes": "birdox, birdoc, birdc, trashmenc, eggsc"
+
+Valentina
+    "codes": "valentina, vd, parrothead, wiggles"
+    "codes": "valentinax, valentinac, vdc, parrotheadc, wigglesc"
+
+Czar Dragon and Zombone
+    "codes": "czarzombone, czar, czardragon, dragon, zombone, zombie, cz"
+    "codes": "czarzombonex, czarzombonec, czarc, czardragonc, dragonc, zombonec, zombiec, czc"
+
+Axem Rangers
+    "codes": "axemrangers, axem, rangers, a5, blade, breaker"
+    "codes": "axemrangersx, axemrangersc, axemc, rangersc, a5c, bladec, breakerc"
+
+Magikoopa
+    "codes": "magikoopa, mk, kamek, babystealer"
+    "codes": "magikoopax, magikoopac, mkc, kamekc, babystealerc"
+
+Boomer
+    "codes": "boomer, boom, samurai, sam"
+    "codes": "boomerx, boomerc, boomc, samuraic, samc"
+
+Exor
+    "codes": "exor, ex, sword, swordmouth"
+    "codes": "exorx, exorc, exc, swordc, swordmouthc"
+
+Countdown
+    "codes": "countdown, cd, clock, dinger"
+    "codes": "countdownx, countdownc, cdc, clockc, dingerc"
+
+Cloaker and Domino
+    "codes": "cloakerdomino, cloaker, domino, earthlink, madadder, snake, snek"
+    "codes": "cloakerdominox, cloakerdominoc, cloakerc, dominoc, earthlinkc, madadderc, snakec, snekc"
+
+Clerk
+    "codes": "clerk, factoryboss1, boss1, fb1"
+    "codes": "clerkx, clerkc, factoryboss1c, boss1c, fb1c"
+
+Manager
+    "codes": "manager, factoryboss2, boss2, fb2"
+    "codes": "managerx, managerc, factoryboss2c, boss2c, fb2c"
+
+Director
+    "codes": "director, factoryboss3, boss3, fb3"
+    "codes": "directorx, directorc, factoryboss3c, boss3c, fb3c"
+
+Gunyolk
+    "codes": "gunyolk, gy, guny, gyolk, smelty"
+    "codes": "gunyolkx, gunyolkc, gyc, gunyc, gyolkc, smeltyc"
+
+Smithy
+    "codes": "smithy, smitty, blacksmith, bs, finalboss, gameover"
+    "codes": "smithyx, smithyc, smittyc, blacksmithc, bsc, finalbossc, gameoverc"
