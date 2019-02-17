@@ -1,0 +1,29 @@
+﻿{
+  "name": "SMRPG Open Randomizer Tracker",
+  "packages": [
+    {
+      "name": "SMRPG Open Randomizer Tracker",
+      "author": "Cynas",
+      "game_name": "Super Mario RPG Randomizer",
+      "version": "1.0",
+      "flags": [ "chathud" ],
+      "required_app_version": "2.2.0.6",
+      "uid": "smrpgr_open_cynas",
+      "link": "https://cynas19.github.io/cynas.github.io/smrpgr_open_cynas.zip",
+      "variants": [
+        {
+          "name": "Items Only",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Items with Characters",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Items with Characters and Bosses",
+          "flags": [ "chathud" ]
+        }
+      ]
+    }
+  ]
+}
