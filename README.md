@@ -22,11 +22,11 @@ Changelog (1.0 --> 2.0)
 
 -Map tracking is here!!  For tracking with a map, it is highly recommended that you use the boss icon (left click) to indicate that the location is checked, and the check mark (right click) to indicate that the boss has been defeated.  There are three new layouts to customize your SMRPG Randomizer experience:
 
- >"Key Item Shuffle and Star Hunt" layout has absolutely everything this tracker has to offer: stars, key items, characters, bosses, the map with boss locations, key item locations, shop locations, and randomized item locations (both chests and npc rewards) complete with working gates and pinned locations.  You can even use the pins to remind you which shops to revisit in the future but dropping an icon into the dotted square.  This version of the tracker is ideal for those playing with the Key Item Shuffle, or the future Star Hunt mode where key items and stars can be found anywhere.  The drawback is that this tracker can get fairly crowded.  This variant uses the broadcast layout from "Items with Characters and Bosses".
+ -"Key Item Shuffle and Star Hunt" layout has absolutely everything this tracker has to offer: stars, key items, characters, bosses, the map with boss locations, key item locations, shop locations, and randomized item locations (both chests and npc rewards) complete with working gates and pinned locations.  You can even use the pins to remind you which shops to revisit in the future but dropping an icon into the dotted square.  This version of the tracker is ideal for those playing with the Key Item Shuffle, or the future Star Hunt mode where key items and stars can be found anywhere.  The drawback is that this tracker can get fairly crowded.  This variant uses the broadcast layout from "Items with Characters and Bosses".
 
- >"Full Tracker" subtracts randomized item locations from the above, and uses the same broadcast layout, "Items with Characters and Bosses".
+ -"Full Tracker" subtracts randomized item locations from the above, and uses the same broadcast layout, "Items with Characters and Bosses".
 
- >"Map with Items and Characters" subtracts the boss icon column, but bosses locations can still be tracked using the map.  This variant uses the broadcast layout from "Items with Characters" to save screen real estate on your stream as well as your desktop.
+ -"Map with Items and Characters" subtracts the boss icon column, but bosses locations can still be tracked using the map.  This variant uses the broadcast layout from "Items with Characters" to save screen real estate on your stream as well as your desktop.
 
 Notes:
 There are some known imperfections with this release.  Most rely on the user having some understanding of the randomizer.
