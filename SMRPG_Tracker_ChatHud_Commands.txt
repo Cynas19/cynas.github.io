@@ -168,9 +168,9 @@ Johnathan Jones
     "codes": "johnny, johnathanjones, jj, jjones, jonathanj, johnathan, shark, sharky"
     "codes": "johnnyx, johnnyc, johnathanjonesc, jjc, jjonesc, jonathanjc, johnathanc, sharkc, sharkyc"
 
-Yardovich
-    "codes": "yardovich, yard, yarid, spearhead, spear"
-    "codes": "yardovichx, yardovichc, yardc, yaridc, spearheadc, spearc"
+Yaridovich
+    "codes": "yaridovich, yard, yarid, spearhead, spear"
+    "codes": "yaridovichx, yaridovichc, yardc, yaridc, spearheadc, spearc"
 
 Belome2
     "codes": "belome2, hunger2, starving2, b2"
