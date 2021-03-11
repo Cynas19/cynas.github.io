@@ -1,5 +1,7 @@
 # cynas.github.io
 
+2.01: Fixed some "or"s that should have been "and"s; updated chest bosses with a letter identifier and changed default off icons to dim instead of grayscale based on community feedback.
+
 Release Notes for SMRPG Randomizer Tracker 2.0 by Cynas (https://www.twitch.tv/cynas)
 
 Thank Yous
